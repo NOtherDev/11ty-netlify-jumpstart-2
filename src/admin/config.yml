@@ -6,7 +6,7 @@ public_folder: "/uploads"
 collections:
   - name: "pages"
     label: "Pages"
-    folder: "pages"
+    folder: "src/pages"
     create: true
     slug: "{{slug}}"
     fields:
